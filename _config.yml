@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://rajtanwar.github.io
+title: Awesome
+email: piyushosr@gmail.com
+author: rajtanwar
+description: My awesome new site
+paginate: 3
+google_analytics: 
