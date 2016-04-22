@@ -7,6 +7,7 @@ Well, isn’t this true with most people around the globe. In real sense, not mo
 
 If you feel that this is not true in your case then just take any word like a toilet, a speaker, a zipper, etc. and try to define how it actually works. After doing this exercise you will realize that here are certain gaps in what you really know about a particular thing. This is called as a cognitive barrier that is the illusion of explanatory depth, in the stream of psychology. This behavior has an impact on major area of our lives, and most importantly our learning. Some of the crucial areas are mentioned below in this article.
 
+https://prepsmarter.com
 
 
 Adaptive learning
