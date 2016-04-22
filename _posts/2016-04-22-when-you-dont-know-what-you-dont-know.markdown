@@ -9,6 +9,7 @@ If you feel that this is not true in your case then just take any word like a to
 
 https://prepsmarter.com
 
+<a href="http://prepsmarter.com/">PrepsSmarter.com</a>
 
 Adaptive learning
 Adaptive learning fills those gaps in knowledge that you require in your education, and it helps you learn things in a fun and personalized manner. This is the latest and the trendiest things in the field of education. Some people may think that adaptive learning is some sort of black magic or black box algorithm, and some also think that it is very complex. Although, it works like magic to help the children learn in an efficient, it is not really complex. It is designed in a way to help students learn according to their individual capabilities and needs. In adaptive learning, it is very easy for the teachers to look at what the student is doing and the kind of progress he/she has made at any given time, and this information helps them to guide students in the right direction for their career.
