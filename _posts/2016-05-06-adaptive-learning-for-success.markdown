@@ -15,7 +15,7 @@ Efficiency
 It is often said that one should work smarter, not harder. The same goes for learning. When you spend much time on a topic that has been covered before, it does not mean you are actually learning more efficiently. It would be better to focus on topics that you are yet to learn. Adaptive learning helps you skip over material that you have already mastered and guides you to focus on the coursework that you should pay particular attention to.
 
 Adaptability 
-
+<br><a href="https://prepsmarter.com/"> PrepSmarter</a>
 Adaptive learning has the ability to change the instruction immediately as a student’s knowledge level is assessed. The technology can pick up the areas where you perform well and those where you struggle. It will adapt the instructions in real-time. Thus, there is optimization of learning since the program can modify its approach to suit your individual level. This will ensure that you master the material before you move on to a more difficult level.
 
 Engagement
@@ -23,3 +23,4 @@ What better way to learn than to be fully engaged in the process? Most students 
 
 Own Pace
 You no longer have to feel overwhelmed by fast paced colleagues finishing all their work before you. In classes especially, many students feel stuck because of this issue. With adaptive learning, the online program sets the pace for you. It sets the right pace according to your skill level, knowledge level and response level. You are, hence, able to work at your own pace and be the best version of yourself without being pressurized.
+<br> <a href="https://prepsmarter.com/blog/what-is-adaptive-learning/"> Adaptive Learning</a>
