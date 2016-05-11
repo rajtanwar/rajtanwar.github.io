@@ -16,6 +16,7 @@ Be it any skill or knowledge, repeated practice creates excellence. When you pra
 
 Practice enhances motivation
 Repeating any exercise over time enables you to excel in the skill. Practicing any skill or exercise for a period of time gives you the motivation to become better than the best.
-
+<a href="https://prepsmarter.com/blog/how-important-is-practice/">Reference </a>
 Practice increases self-reliance
 Repeated practice creates excellence and excellence give confidence and self reliance. As you keep practicing your trade or any skill, you start to interpret the patters and issues. At the same time, you also use critical thinking to solve those issues. Practicing this over time gives you ample dose of confidence to solve any problem.
+<a href="https://prepsmarter.com/">PrepSmarter</a>
